@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-Nikolay Bozhok
-- 🔭 I’m Juniour Unity developer
+## My name is Nikolay Bozhok. I’m Juniour Unity developer. 
+#### Best project to evaluate my code: 
 
+<!--
 **gggittt/gggittt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,6 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!--
+
 comment
 -->
