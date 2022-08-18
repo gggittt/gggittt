@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Nikolay Bozhok. I’m Juniour Unity developer. 
+## Juniour Unity developer. 
 # Best project to evaluate my code: https://github.com/gggittt/Lord-of-the-Pigs
 
 <!--
@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 comment
 -->
+Code should read like well-written prose and be clean, lean, and easy to maintain.
