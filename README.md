@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 ![Adobe Premiere](https://img.shields.io/badge/-Adobe_Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro&logoColor=FF50A8)
 ![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=F4CA16)
 
+CV https://docs.google.com/document/d/1y0oRrCxb-SUxmhspFdCronjvmBU7Br9Z_2aoc7W-x68/edit
+  Curriculum vitae, или сокр. CV — краткое хронологическое описание жизни, образования, мест работы и профессиональных навыков по определённой форме
+  https://www.google.com/search?q=cv+%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%B0
+  
+
 https://github.com/MeeXaSiK/meexasik/blame/main/README.md
 редко ведь отвечаю в вк. подключить что ли бота к телеге?  [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/bozhok.nikolay)
 email, 
