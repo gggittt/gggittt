@@ -4,6 +4,7 @@
 # Best project to evaluate my code: https://github.com/gggittt/Lord-of-the-Pigs
 
 <!--
+comment
 **gggittt/gggittt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +18,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-090909?style=for-the-badge&logo=adobephotoshop&logoColor=007DFF)
+![Adobe Premiere](https://img.shields.io/badge/-Adobe_Premiere_Pro-090909?style=for-the-badge&logo=adobepremierepro&logoColor=FF50A8)
+![Blender](https://img.shields.io/badge/-Blender-090909?style=for-the-badge&logo=blender&logoColor=F4CA16)
 
-comment
+https://github.com/MeeXaSiK/meexasik/blame/main/README.md
+редко ведь отвечаю в вк. подключить что ли бота к телеге?  [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/bozhok.nikolay)
+email, 
 -->
+### Technology Stack
+
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
+![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
+![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
+
+### Games I Worked On
+[![Gum_Hero](https://img.shields.io/badge/-Gum_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=gum.hero.lab)
+
+### My Favorite GitHub Projects
+[![sample link](https://img.shields.io/badge/-MonoCache-090909?style=flat&logo=github&color=0B2C3D)](https://github.com/gggittt)
+
+
+### My Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
+
+
+
 Code should read like well-written prose and be clean, lean, and easy to maintain.
