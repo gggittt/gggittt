@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Juniour Unity developer. 
+## Unity developer. 
 # Best project to evaluate my code: https://github.com/gggittt/Lord-of-the-Pigs
 
 <!--
