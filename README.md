@@ -37,7 +37,7 @@ email,
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
 
-<--
+<!--
 ### Games I Worked On
 [![Gum_Hero](https://img.shields.io/badge/-Gum_Hero-090909?style=for-the-badge&logo=GooglePlay)](https://play.google.com/store/apps/details?id=gum.hero.lab)
 -->
