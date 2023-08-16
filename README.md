@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Unity developer. 
+## I am a software engineer. I am currently working in the Unity Engine.
 # Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 <!--
