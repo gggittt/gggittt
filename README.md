@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hi there, I am Nikolay 👋
 
-## I am a software engineer. I am currently working in the Unity Engine.
-# Best project to evaluate my code: https://github.com/gggittt/Lines98
+I am a software engineer. I am currently working in the Unity Engine.
 
-### Technology Stack
+Best project to evaluate my code: https://github.com/gggittt/Lines98
+
+## Technology Stack
 
 ![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
@@ -18,7 +19,7 @@
 -->
 
 
-### My Contacts
+## My Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
 <!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
 
