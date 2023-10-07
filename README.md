@@ -22,9 +22,8 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 ## My Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
 <!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
-
+---
 Code should read like well-written prose and be clean, lean, and easy to maintain.
-
 
 
 <!--     visit count    -->
