@@ -1,5 +1,7 @@
 # Hi there, I am Nikolay 👋
-
+<!--## My Contacts-->
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
+<!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
 I am a software engineer, currently working in the Unity Engine.
 
 Best project to evaluate my code: https://github.com/gggittt/Lines98
@@ -43,13 +45,18 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md = n
 - Interface Pairing
 - No Namespace Providers
 - ProjectTree Color Highlighter (bug)
-- 
 
 ## Also sometimes I: 
 - Use RegEx for solving personal tasks
 - Use Bookmarklets. Few samples:
-  - YouTube copy time: `javascript:(function() {  var time = document.querySelector('.ytp-time-current').textContent;    var textArea = document.createElement('textarea');  textArea.value = time;  document.body.appendChild(textArea);  textArea.select();  document.execCommand('copy');  document.body.removeChild(textArea);})();`
-  - YouTube shorts to normal  `javascript:(function() {   var url = window.location.href;   var regex = /https:\/\/www\.youtube\.com\/shorts\/(.+)/;   var match = url.match(regex);   if (match) {     var newUrl = "https://www.youtube.com/watch?v=" + match[1];     window.location.href = newUrl;   } })();`
+  - YouTube copy time: 
+```js
+javascript:(function() {  var time = document.querySelector('.ytp-time-current').textContent;    var textArea = document.createElement('textarea');  textArea.value = time;  document.body.appendChild(textArea);  textArea.select();  document.execCommand('copy');  document.body.removeChild(textArea);})();
+```
+  - YouTube shorts to normal
+```js
+javascript:(function() {   var url = window.location.href;   var regex = /https:\/\/www\.youtube\.com\/shorts\/(.+)/;   var match = url.match(regex);   if (match) {     var newUrl = "https://www.youtube.com/watch?v=" + match[1];     window.location.href = newUrl;   } })();
+```
 - Looking for new soft for PC. I can recommend:
   - KeyManager
   - Clipdiary
@@ -58,9 +65,6 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md = n
   - PotPlayer
 - Long time ago I solve few problems in [Leetcode](https://leetcode.com/Nikolay_Bozhok/)
 
-## My Contacts
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
-<!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
 ---
 Code should read like well-written prose and be clean, lean, and easy to maintain.
 
