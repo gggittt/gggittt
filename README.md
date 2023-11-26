@@ -49,13 +49,12 @@ https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md = n
 ## Also sometimes I: 
 - Use RegEx for solving personal tasks
 - Use Bookmarklets. Few samples:
-  - YouTube copy time: 
 ```js
-javascript:(function() {  var time = document.querySelector('.ytp-time-current').textContent;    var textArea = document.createElement('textarea');  textArea.value = time;  document.body.appendChild(textArea);  textArea.select();  document.execCommand('copy');  document.body.removeChild(textArea);})();
+/*YouTube copy time*/ javascript:(function() {  var time = document.querySelector('.ytp-time-current').textContent;    var textArea = document.createElement('textarea');  textArea.value = time;  document.body.appendChild(textArea);  textArea.select();  document.execCommand('copy');  document.body.removeChild(textArea);})();
 ```
-  - YouTube shorts to normal
+
 ```js
-javascript:(function() {   var url = window.location.href;   var regex = /https:\/\/www\.youtube\.com\/shorts\/(.+)/;   var match = url.match(regex);   if (match) {     var newUrl = "https://www.youtube.com/watch?v=" + match[1];     window.location.href = newUrl;   } })();
+/*YouTube shorts to normal*/ javascript:(function() {   var url = window.location.href;   var regex = /https:\/\/www\.youtube\.com\/shorts\/(.+)/;   var match = url.match(regex);   if (match) {     var newUrl = "https://www.youtube.com/watch?v=" + match[1];     window.location.href = newUrl;   } })();
 ```
 - Looking for new soft for PC. I can recommend:
   - KeyManager
