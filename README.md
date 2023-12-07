@@ -68,6 +68,7 @@ already
 ![Game Developer](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Developer&color=E60012&logo=Game+Developer&logoColor=FFFFFF&label=)
 ![LibreOffice](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice&color=18A303&logo=LibreOffice&logoColor=FFFFFF&label=) ![Apache OpenOffice](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+OpenOffice&color=0E85CD&logo=Apache+OpenOffice&logoColor=FFFFFF&label=)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/Nikolay_Bozhok/
+do just link in left panel  ![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
 not principles ![Solid](https://img.shields.io/static/v1?style=for-the-badge&message=Solid&color=2C4F7C&logo=Solid&logoColor=FFFFFF&label=)
 ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
