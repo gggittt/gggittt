@@ -12,7 +12,7 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- TS-->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -26,11 +26,20 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 ![diagrams.net](https://img.shields.io/static/v1?style=for-the-badge&message=diagrams.net&color=F08705&logo=diagrams.net&logoColor=FFFFFF&label=)
 
+
 <!--https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md 
 no Zenject, Zeplin
 
 ![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
+![Google AdMob](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdMob&color=EA4335&logo=Google+AdMob&logoColor=FFFFFF&label=)
+![Google Ads](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Ads&color=4285F4&logo=Google+Ads&logoColor=FFFFFF&label=)
+![Google AdSense](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdSense&color=4285F4&logo=Google+AdSense&logoColor=FFFFFF&label=)
+![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
+![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play&color=414141&logo=Google+Play&logoColor=FFFFFF&label=)
 
+forget 1
+
+![Game Developer](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Developer&color=E60012&logo=Game+Developer&logoColor=FFFFFF&label=)
 
 ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
