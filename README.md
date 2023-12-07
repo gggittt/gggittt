@@ -7,10 +7,13 @@ I am a software engineer, currently working in the Unity Engine.
 Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 ## Technology Stack
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity)
 
 ![Rider](https://img.shields.io/badge/-Rider-090909?style=for-the-badge&logo=rider&logoColor=FF8F2D)
+![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- TS-->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,11 +29,24 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 ![diagrams.net](https://img.shields.io/static/v1?style=for-the-badge&message=diagrams.net&color=F08705&logo=diagrams.net&logoColor=FFFFFF&label=)
 
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+![Confluence](https://img.shields.io/static/v1?style=for-the-badge&message=Confluence&color=172B4D&logo=Confluence&logoColor=FFFFFF&label=)
+
+![SAP](https://img.shields.io/static/v1?style=for-the-badge&message=SAP&color=0FAAFF&logo=SAP&logoColor=FFFFFF&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 
 <!--https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md 
 no Zenject, Zeplin
 
-![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=)
+![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
+
+![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
+![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=)
+
+![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
+
+![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=) и аналоги
 ![Google AdMob](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdMob&color=EA4335&logo=Google+AdMob&logoColor=FFFFFF&label=)
 ![Google Ads](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Ads&color=4285F4&logo=Google+Ads&logoColor=FFFFFF&label=)
 ![Google AdSense](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdSense&color=4285F4&logo=Google+AdSense&logoColor=FFFFFF&label=)
@@ -41,11 +57,8 @@ forget 1
 
 ![Game Developer](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Developer&color=E60012&logo=Game+Developer&logoColor=FFFFFF&label=)
 
-![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
-![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
-![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=)
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/Nikolay_Bozhok/
+
 ![Git Extensions](https://img.shields.io/static/v1?style=for-the-badge&message=Git+Extensions&color=212121&logo=Git+Extensions&logoColor=FFFFFF&label=)
 ![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
 ![GitBook](https://img.shields.io/static/v1?style=for-the-badge&message=GitBook&color=3884FF&logo=GitBook&logoColor=FFFFFF&label=)
@@ -53,6 +66,8 @@ forget 1
 ![Gitee](https://img.shields.io/static/v1?style=for-the-badge&message=Gitee&color=C71D23&logo=Gitee&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
+
+![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=) блокчейн соцсеть
 -->
 
 ## Recommend Plugins for JetBrains IDE:
