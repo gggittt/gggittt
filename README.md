@@ -37,6 +37,7 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 <!--https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md 
 no Zenject, Zeplin, GPT
+C#/JS frameworks: UniRx, unitTests, ECS, DoTween, 
 
 AI
 
@@ -68,7 +69,8 @@ already
 ![LibreOffice](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice&color=18A303&logo=LibreOffice&logoColor=FFFFFF&label=) ![Apache OpenOffice](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+OpenOffice&color=0E85CD&logo=Apache+OpenOffice&logoColor=FFFFFF&label=)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/Nikolay_Bozhok/
 ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
-
+not principles ![Solid](https://img.shields.io/static/v1?style=for-the-badge&message=Solid&color=2C4F7C&logo=Solid&logoColor=FFFFFF&label=)
+![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
 
 ![Git Extensions](https://img.shields.io/static/v1?style=for-the-badge&message=Git+Extensions&color=212121&logo=Git+Extensions&logoColor=FFFFFF&label=)
 ![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
