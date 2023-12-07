@@ -43,9 +43,6 @@ AI
 ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
 ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
 
-
-
-
 ![Notion](https://img.shields.io/static/v1?style=for-the-badge&message=Notion&color=000000&logo=Notion&logoColor=FFFFFF&label=)
 ![Obsidian](https://img.shields.io/static/v1?style=for-the-badge&message=Obsidian&color=7C3AED&logo=Obsidian&logoColor=FFFFFF&label=)
 
@@ -59,15 +56,14 @@ AI
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 
-![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=) и аналоги
+![Steam](https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=) And analogues
 ![Google AdMob](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdMob&color=EA4335&logo=Google+AdMob&logoColor=FFFFFF&label=)
 ![Google Ads](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Ads&color=4285F4&logo=Google+Ads&logoColor=FFFFFF&label=)
 ![Google AdSense](https://img.shields.io/static/v1?style=for-the-badge&message=Google+AdSense&color=4285F4&logo=Google+AdSense&logoColor=FFFFFF&label=)
 ![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
 ![Google Play](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Play&color=414141&logo=Google+Play&logoColor=FFFFFF&label=)
 
-
-уже
+already
 ![Game Developer](https://img.shields.io/static/v1?style=for-the-badge&message=Game+Developer&color=E60012&logo=Game+Developer&logoColor=FFFFFF&label=)
 ![LibreOffice](https://img.shields.io/static/v1?style=for-the-badge&message=LibreOffice&color=18A303&logo=LibreOffice&logoColor=FFFFFF&label=) ![Apache OpenOffice](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+OpenOffice&color=0E85CD&logo=Apache+OpenOffice&logoColor=FFFFFF&label=)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06) https://leetcode.com/Nikolay_Bozhok/
@@ -77,12 +73,10 @@ AI
 ![Git Extensions](https://img.shields.io/static/v1?style=for-the-badge&message=Git+Extensions&color=212121&logo=Git+Extensions&logoColor=FFFFFF&label=)
 ![Git LFS](https://img.shields.io/static/v1?style=for-the-badge&message=Git+LFS&color=F64935&logo=Git+LFS&logoColor=FFFFFF&label=)
 ![GitBook](https://img.shields.io/static/v1?style=for-the-badge&message=GitBook&color=3884FF&logo=GitBook&logoColor=FFFFFF&label=)
-![Gitea](https://img.shields.io/static/v1?style=for-the-badge&message=Gitea&color=609926&logo=Gitea&logoColor=FFFFFF&label=)
-![Gitee](https://img.shields.io/static/v1?style=for-the-badge&message=Gitee&color=C71D23&logo=Gitee&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
 
-![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=) блокчейн соцсеть
+![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=) Blockchain social network
 -->
 
 ## Recommend Plugins for JetBrains IDE:
