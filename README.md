@@ -98,7 +98,7 @@ not principles ![Solid](https://img.shields.io/static/v1?style=for-the-badge&mes
 
 ### Intresting plugins, which deserve attention, but already dropped by me (has bug or not my work style)
 - Key Promoter X https://plugins.jetbrains.com/plugin/9792-key-promoter-x
-- Diagrams.net Integration (should test again)
+- Diagrams.net Integration (I should test it again)
 - IDEA mind map
 - PlantUML
 - Interface Pairing
