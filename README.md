@@ -36,8 +36,8 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 
 <!--https://raw.githubusercontent.com/progfay/shields-with-icon/master/README.md 
-no Zenject, Zeplin, GPT
-C#/JS frameworks: UniRx, unitTests, ECS, DoTween, 
+not found: Zenject, Zeplin, GPT
+not found C#/JS frameworks: UniRx, unitTests, ECS, DoTween, 
 
 AI
 
