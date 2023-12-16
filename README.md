@@ -129,5 +129,8 @@ Code should read like well-written prose and be clean, lean, and easy to maintai
 
 <!--     visit count    -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gggittt&label=Profile%20views&color=0e75b6&style=flat" alt="gggittt" /> </p>
+<!-- count:
+2023.(012).16  20;08 = 233 
 
+-->
 
