@@ -23,7 +23,10 @@ Best project to evaluate my code: https://github.com/gggittt/Lines98
 
 ![AutoHotkey](https://img.shields.io/static/v1?style=for-the-badge&message=AutoHotkey&color=334455&logo=AutoHotkey&logoColor=FFFFFF&label=)
 
-![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=) <!-- ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)--> ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
+![Microsoft SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SQL+Server&color=CC2927&logo=Microsoft+SQL+Server&logoColor=FFFFFF&label=) 
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=) 
+
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
 
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
@@ -121,9 +124,11 @@ not principles ![Solid](https://img.shields.io/static/v1?style=for-the-badge&mes
   - Volume2
   - Autorun Organizer
   - PotPlayer
-- Long time ago I solve few problems in [Leetcode](https://leetcode.com/Nikolay_Bozhok/)
+
+## Long time ago I solve few problems in [Leetcode](https://leetcode.com/Nikolay_Bozhok/)
 
 ---
+
 Code should read like well-written prose and be clean, lean, and easy to maintain.
 
 
