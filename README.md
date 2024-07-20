@@ -85,7 +85,7 @@ not principles ![Solid](https://img.shields.io/static/v1?style=for-the-badge&mes
 ![Minds](https://img.shields.io/static/v1?style=for-the-badge&message=Minds&color=222222&logo=Minds&logoColor=FED12F&label=) Blockchain social network
 -->
 
-## Recommend Plugins for JetBrains IDE:
+## Recommend by me plugins for JetBrains IDEs:
 - https://plugins.jetbrains.com/plugin/7086-acejump
 - https://plugins.jetbrains.com/plugin/9223-heap-allocations-viewer
 
