@@ -1,4 +1,4 @@
-# Hi there, I am Nikolay 👋
+# Hi there, I am Software Engineer 👋
 <!--## My Contacts -->
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
 <!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
