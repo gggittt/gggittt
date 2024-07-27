@@ -1,8 +1,9 @@
 # Hi there, I am Software Engineer 👋
 <!--## My Contacts -->
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
-<!--![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
-<!--!I am a software engineer, currently working in the Unity Engine.-->
+<!--!  [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
+<!--!  I am a software engineer, currently working in the Unity Engine.-->
+<!--!  image folder from: https://github.com/olegmrzv/olegmrzv  -->
 
 Best project to evaluate my code: https://github.com/gggittt/Lines98
 
