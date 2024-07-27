@@ -1,13 +1,19 @@
 # Hi there, I am Software Engineer 👋
 <!--## My Contacts -->
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
-<!--!  [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
-<!--!  I am a software engineer, currently working in the Unity Engine.-->
-<!--!  image folder from: https://github.com/olegmrzv/olegmrzv. 
+<!--  [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
+<!--  I am a software engineer, currently working in the Unity Engine.-->
+<!--  image folder from: https://github.com/olegmrzv/olegmrzv. 
 1. открыть https://github.com/gggittt/gggittt
 2. add file Button
 3. upload by drag and drop 
 -->
+<!--  https://raw.githubusercontent.com/olegmrzv/olegmrzv/main/README.md  тоже накомментил:
+
+-->
+
+
+
 
 Best project to evaluate my code: https://github.com/gggittt/Lines98
 
@@ -137,10 +143,22 @@ not principles ![Solid](https://img.shields.io/static/v1?style=for-the-badge&mes
 Code should read like well-written prose and be clean, lean, and easy to maintain.
 
 
+
+
 <!--     visit count. It also count my visits and my page reloads    -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gggittt&label=Profile%20views&color=0e75b6&style=flat" alt="gggittt" /> </p>
 <!-- count:
 2023.(012).16  20;08 = 233 
-
 -->
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gggittt&layout=compact" alt="gggittt" /> </p>
+
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gggittt&show_icons=true" alt="gggittt" /></p>
+-->
+
+
 
