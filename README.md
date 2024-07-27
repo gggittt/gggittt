@@ -3,7 +3,11 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nBozhok/)
 <!--!  [LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)-->
 <!--!  I am a software engineer, currently working in the Unity Engine.-->
-<!--!  image folder from: https://github.com/olegmrzv/olegmrzv  -->
+<!--!  image folder from: https://github.com/olegmrzv/olegmrzv. 
+1. открыть https://github.com/gggittt/gggittt
+2. add file Button
+3. upload by drag and drop 
+-->
 
 Best project to evaluate my code: https://github.com/gggittt/Lines98
 
