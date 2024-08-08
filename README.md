@@ -9,7 +9,7 @@
 3. upload by drag and drop 
 -->
 <!--  https://raw.githubusercontent.com/olegmrzv/olegmrzv/main/README.md  тоже накомментил:
-
+... дописать
 -->
 
 
