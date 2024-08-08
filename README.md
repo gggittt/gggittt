@@ -10,12 +10,13 @@
 -->
 <!--  https://raw.githubusercontent.com/olegmrzv/olegmrzv/main/README.md  тоже накомментил:
 ... дописать
+
 -->
 
 
 
 
-Best project to evaluate my code: https://github.com/gggittt/Lines98
+Best project to evaluate my code: https://github.com/gggittt/Lines98 <!-- todo изменить-->
 
 ## Technology Stack
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
