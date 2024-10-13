@@ -16,7 +16,7 @@
 
 
 
-Best project to evaluate my code: https://github.com/gggittt/Lines98 <!-- todo изменить-->
+Best project to evaluate my code: https://github.com/gggittt/match3_byClicks  <!-- todo изменить. был с кривым кодом: https://github.com/gggittt/Lines98-->
 
 ## Technology Stack
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=37E1FF)
